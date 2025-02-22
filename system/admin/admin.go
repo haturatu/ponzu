@@ -9,10 +9,10 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/ponzu-cms/ponzu/system/admin/user"
-	"github.com/ponzu-cms/ponzu/system/api/analytics"
-	"github.com/ponzu-cms/ponzu/system/db"
-	"github.com/ponzu-cms/ponzu/system/item"
+	"github.com/haturatu/ponzu/system/admin/user"
+	"github.com/haturatu/ponzu/system/api/analytics"
+	"github.com/haturatu/ponzu/system/db"
+	"github.com/haturatu/ponzu/system/item"
 )
 
 var startAdminHTML = `<!doctype html>

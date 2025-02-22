@@ -14,10 +14,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/haturatu/ponzu/system/cfg"
 
-	"github.com/ponzu-cms/ponzu/system/db"
-	"github.com/ponzu-cms/ponzu/system/item"
+	"github.com/haturatu/ponzu/system/db"
+	"github.com/haturatu/ponzu/system/item"
 )
 
 // StoreFiles stores file uploads at paths like /YYYY/MM/filename.ext

@@ -7,10 +7,10 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/haturatu/ponzu/system/cfg"
 
-	"github.com/ponzu-cms/ponzu/system/item"
-	"github.com/ponzu-cms/ponzu/system/search"
+	"github.com/haturatu/ponzu/system/item"
+	"github.com/haturatu/ponzu/system/search"
 
 	"github.com/boltdb/bolt"
 	"github.com/nilslice/jwt"

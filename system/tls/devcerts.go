@@ -26,9 +26,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/haturatu/ponzu/system/cfg"
 
-	"github.com/ponzu-cms/ponzu/system/db"
+	"github.com/haturatu/ponzu/system/db"
 )
 
 func publicKey(priv interface{}) interface{} {

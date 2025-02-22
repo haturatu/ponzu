@@ -7,12 +7,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/haturatu/ponzu/system/cfg"
 
-	"github.com/ponzu-cms/ponzu/system"
-	"github.com/ponzu-cms/ponzu/system/admin/user"
-	"github.com/ponzu-cms/ponzu/system/api"
-	"github.com/ponzu-cms/ponzu/system/db"
+	"github.com/haturatu/ponzu/system"
+	"github.com/haturatu/ponzu/system/admin/user"
+	"github.com/haturatu/ponzu/system/api"
+	"github.com/haturatu/ponzu/system/db"
 )
 
 // Run adds Handlers to default http listener for Admin
