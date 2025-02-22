@@ -1,3 +1,9 @@
+build
+```bash
+cd ponzu/cmd/ponzu
+go build -o ponzu .
+```
+
 ![My friend, "Gotoro"](ponzu-banner.png)
 
 # Ponzu
